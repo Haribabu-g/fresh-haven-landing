@@ -30,7 +30,7 @@ function Banner2() {
 
                     >
 
-At Fresh Haven, we make healthy eating fun and effortless! From smoothies to snacks, we’ve got the freshest fruits to keep you smiling. 🍏🍊🍉</motion.p>
+At Fresh Haven, we make healthy eating fun and effortless!we’ve got the freshest fruits to keep you smiling. 🍏🍊🍉</motion.p>
 
                     <motion.p
                      variants={FadeUp(0.9)}
@@ -39,7 +39,7 @@ At Fresh Haven, we make healthy eating fun and effortless! From smoothies to sna
                      viewport={{once: true}}
 
                      className='text-justify'
-                    >We share the joy of fresh fruits by partnering with communities, schools, and food banks. From donations to fruit-tasting events, we’re making the world a juicier place! 🍓🍍</motion.p>
+                    >We share the joy of fresh fruits by partnering with communities and food banks. From donations to fruit-tasting events,making the world a juicier place! 🍓🍍</motion.p>
                    
 
                     {/*button section*/}

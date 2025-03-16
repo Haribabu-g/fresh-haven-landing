@@ -9,6 +9,7 @@ const bgstyle  = {
     backgroundPosition: "center",
     backgroundSize: "cover",
     backgroundRepeat: "no-repeat",
+    backgroundAttachment: "fixed",
 };
 
 function Banner3() {
