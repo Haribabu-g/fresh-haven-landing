@@ -1,12 +1,76 @@
-# React + Vite
+# 🌿 Fresh Haven Landing Page 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+A vibrant and fully responsive fruit marketplace 🍏🍊 built with React 🚀, featuring smooth Framer Motion animations 🎬 and a fresh, colorful design 🎨 powered by Tailwind CSS. Experience a dynamic hero section ✨ that showcases the juiciest picks and a sleek navigation bar 🏗️ for a seamless shopping experience! 🛒🥭
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ 
+## 🚀 Live Demo  
+Check out the live demo: [Fresh Haven Landing Page] 🔗(https://fresh-haven-landing.vercel.app/)  
+ (opens in a new tab).
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+ ## ✨ Features
+
+- 🌍 Fully Responsive Design  
+- 🎞️ Smooth Animations with Framer Motion  
+- 🎨 Tailwind CSS for Styling  
+- 🚀 Fast Performance with Vite  
+- 🔗 Dynamic Hero Section & Navigation Bar
+
+
+## 🛠️ Tech Stack  
+
+- 🎨 **Frontend**: React, Tailwind CSS  
+- 🎬 **Animations**: Framer Motion  
+- 🏗️ **Build Tool**: Vite  
+- 🚀 **Deployment**: Vercel 
+
+
+## 📂 Project Structure
+
+- **📁 public/** → Static assets  
+- **📁 src/** → Main source code including components and assets  
+  - **📁 assets/** → Images & SVGs  
+  - **📁 components/** → Reusable React components  
+    - **📁 Banners/** → Homepage banners  
+    - **📁 Navbar/** → Navigation bar components  
+    - **📁 Footer/** → Footer section  
+  - **📁 utility/** → Helper functions & animations  
+  - **📄 App.jsx** → Main React component  
+  - **📄 main.jsx** → Entry point  
+  - **🎨 index.css** → Styling file
+ 
+## 💻 Usage
+
+1. Clone the repository
+2. Install dependencies
+3. Run the development server
+4. Access the app at `http://localhost:5173`
+
+## 📦 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/Haribabu-g/fresh-haven-landing.git
+
+# Navigate to the project directory
+cd fresh-haven-landing
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+
+```
+
+⭐ If you like this repo, consider giving it a star! ⭐
+
+## 📌 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/haribabu-g/)  
+
+
+---
+
+Feel free to contribute to this project by submitting issues or pull requests!
