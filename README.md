@@ -64,13 +64,20 @@ npm run dev
 
 ```
 
-⭐ If you like this repo, consider giving it a star! ⭐
+
 
 ## 📌 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/haribabu-g/)  
 
 
----
+## Contributing 🤝
 
 Feel free to contribute to this project by submitting issues or pull requests!
+
+---
+
+<div align="center">
+🌟If you like this repo, consider giving it a star! ⭐
+</div>
+
