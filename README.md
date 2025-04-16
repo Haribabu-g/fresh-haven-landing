@@ -78,6 +78,6 @@ Feel free to contribute to this project by submitting issues or pull requests!
 ---
 
 <div align="center">
-🌟If you like this repo, consider giving it a star! ⭐mnbvcdrtyuj
+🌟If you like this repo, consider giving it a star! ⭐
 </div>
 
